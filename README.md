@@ -1,4 +1,6 @@
-# KARIUM (KRM)
+# KARIUM 
+Link to buy
+https://pump.fun/coin/5H1qzU7ivaXsojstxVSD3KhRZ5Fjic4EsTJDbt6Zpump
 
 > Fair-launch Proof-of-Work on Solana.
 
