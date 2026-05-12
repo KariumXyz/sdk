@@ -1,0 +1,13 @@
+{
+  "name": "karium",
+  "version": "1.0.0",
+  "description": "KARIUM Proof-of-Work Token",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
